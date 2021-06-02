@@ -67,7 +67,7 @@ legend.onAdd = function() {
    return div;
  };
 
-legend.addTo(map);
+ legend.addTo(map);
 
 
 // Retrieve the earthquake GeoJSON data.
